@@ -1,9 +1,12 @@
 # Youtube_downloader
 Asimple application to download youtube playlists
+Downlaod the java import file from the link : https://github.com/axet/vget
+
 Instructions:
-1. Copy the exe file to your system and open the application from the command prompt
-2. type the following command in the prompt:
-youtube-dl <url of the playlist>
+Run the java application yotube.java from the suitable jde preferable netBeans.
 
 
-Enjoy the downloads
+Note: Use jdk 7 or jdk 8 version for better result
+
+
+Enjoy the downloads !!!
